@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5x5_Matrix_Counter", "5x5_Matrix_Counter.vbproj", "{84FD35A0-2EE0-4EA6-98FD-24675354D258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FD35A0-2EE0-4EA6-98FD-24675354D258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FD35A0-2EE0-4EA6-98FD-24675354D258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FD35A0-2EE0-4EA6-98FD-24675354D258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FD35A0-2EE0-4EA6-98FD-24675354D258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6F93E7B-EA60-488A-A8FF-ED0F61AF49D1}
+	EndGlobalSection
+EndGlobal
